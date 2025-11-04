@@ -36,7 +36,7 @@ khna-app/
 │   └─ Dockerfile.dev
 │
 ├─ images/
-│   └─ architecture.png   # optional architecture diagram
+│   └─ architecture.png   
 │
 ├─ docker-compose.yml
 └─ README.md
